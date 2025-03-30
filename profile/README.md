@@ -1,12 +1,5 @@
-## Hi there 👋
+## Welcome
+Welcome to the AI & Transportation Research Lab at CCNY! Our lab is dedicated to advancing transportation research by harnessing cutting-edge technologies, including artificial intelligence, advanced sensing systems, and the Internet of Things (IoT). We develop intelligent, data-driven solutions to enhance mobility, safety, and sustainability in transportation systems. Here, you’ll find information about our research projects, publications, and opportunities for collaboration.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Our Mission
+Our mission is to push the boundaries of transportation research by leveraging emerging technologies to develop intelligent, data-driven solutions. By focusing on areas such as vehicle classification, mobility analysis, and smart infrastructure, we aim to enhance the efficiency and safety of transportation networks. Through interdisciplinary collaboration and real-world applications, we strive to create impactful innovations that shape the future of mobility.
